@@ -9,14 +9,15 @@ Created new features from the existing dataset. Merged these features to the exi
 
 Requires python3 to run.
 
-modules which needs to be installed:
+<b>Modules which needs to be installed:</b>
+<ul>
+<li>numpy</li>
+<li>pandas</li>
+<li>scikit-learn</li>
+<li>lightgbm</li>
+</ul>
 
-numpy
-pandas
-scikit-learn
-lightgbm
-
-Run following command to install the above modules:
+<b>Run following command to install the above modules:</b>
 
 pip3 install -r requirements.txt
 
